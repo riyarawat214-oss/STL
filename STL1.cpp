@@ -3,7 +3,7 @@
 #include<vector>
 #include<list>
 #include<string>
-#include<deque>
+#include<deque> ////////it is a dequeue libraray
 #include<queue>
 #include<stack>
 #include<set>
